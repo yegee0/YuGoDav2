@@ -4,7 +4,6 @@ A food delivery platform where customers order surprise food bags from restauran
 
 **Roles:** Customer · Restaurant / Store · Driver · Admin
 
-> See [requirements.txt](requirements.txt) for the full list of tools and services needed.
 
 ---
 
