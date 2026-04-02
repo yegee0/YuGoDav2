@@ -1,0 +1,7 @@
+{
+  "name": "yugoda",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix apps/frontend"
+  }
+}
